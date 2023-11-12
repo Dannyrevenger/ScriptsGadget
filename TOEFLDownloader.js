@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  This is a JavaScript file that helps to download TOEFL vocabulary audio from a specific website.
 // @author       Daniel
-// @match        http://download.dogwood.com.cn//*
+// @match        *//download.dogwood.com.cn/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @license      MIT 
