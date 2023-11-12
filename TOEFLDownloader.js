@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TOEFLDownloader
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  This is a JavaScript file that helps to download TOEFL vocabulary audio from a specific website.
 // @author       Daniel
 // @match        *//download.dogwood.com.cn/*
