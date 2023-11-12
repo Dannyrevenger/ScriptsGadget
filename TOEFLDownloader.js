@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         HelloWorld
+// @name         TOEFLDownloader
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  This is a test script.
