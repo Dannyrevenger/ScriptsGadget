@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HelloWorld
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  This is a test script.
 // @author       Daniel
 // @match        http://download.dogwood.com.cn//*
