@@ -13,9 +13,9 @@
 
 (function () {
   'use strict';
-
+  alert('w')
   // Your code here...
-  var download_button = $('<button>').attr({
+  $('<button>').attr({
     text: 'Download',
     target: '_blank',
     href: $(location).attr('href')
